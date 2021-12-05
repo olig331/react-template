@@ -1,0 +1,10 @@
+{
+  "eslint.packageManager": "yarn",
+  "explorer.compactFolders": false,
+  "eslint.alwaysShowStatus": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "eslint.debug": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
